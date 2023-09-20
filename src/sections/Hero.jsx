@@ -49,8 +49,9 @@ const Hero = () => {
           src={bigShoeImg}
           alt='shoe colletion'
           width={610}
-          height={502}
-          className='object-contain relative z-10'
+          height={503}
+          className='object-contain relative z-10
+          mb-[70px]'
         />
 
         <div className='flex sm:gap-6 gap-4 absolute -bottom-[5%] sm:left-[10%] max-sm:px-6'>
