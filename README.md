@@ -1,7 +1,7 @@
 # Nike-site
 ### [Live Site](https://nike-sh.netlify.app)
 
-![Modern UI/UX GPT-3](https://ibb.co/JHnzms3)
+![Modern UI/UX GPT-3](https://i.ibb.co/VTVvJqw/nike.png)
 
 ## Introduction
 This is a code repository for the pseudo nike landing page .
