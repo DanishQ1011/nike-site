@@ -1,5 +1,18 @@
-# Getting Started with Create React App
+# Nike-site
+### [Live Site](https://nike-sh.netlify.app)
 
+![Modern UI/UX GPT-3](https://ibb.co/JHnzms3)
+
+## Introduction
+This is a code repository for the pseudo nike landing page .
+
+- React Functional components and their reusability
+- React file and folder structure
+- Fundamental CSS properties to master flex & grid
+- Fundamentals of the CSS BEM Model
+- From soft and pleasant animations to complex gradients
+- Perfectly placed media queries for satisfactory responsiveness covering almost devices
+- 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
